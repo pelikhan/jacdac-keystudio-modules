@@ -1,3 +1,19 @@
+## Version 1.0.1
+
+### pelikhan/jacdac-keystudio-modules
+
+* [c42f6e9](https://github.com/pelikhan/jacdac-keystudio-modules/commit/c42f6e9) updated jacdac-c
+
+### microsoft/jacdac-c
+
+* [00912d4](https://github.com/microsoft/jacdac-c/commit/00912d4) Use generated constants
+
+### pelikhan/jacdac-keystudio-modules
+
+* [4dac15a](https://github.com/pelikhan/jacdac-keystudio-modules/commit/4dac15a) (HEAD) Add constants for word0 of ctrl announce
+* [0965638](https://github.com/pelikhan/jacdac-keystudio-modules/commit/0965638) support for min_value, max_value registers
+* [fcecddd](https://github.com/pelikhan/jacdac-keystudio-modules/commit/fcecddd) detect conflicts between const and ro regs fix led and realtimeclock conflicts
+
 ## Version 1.0.0
 
 ### pelikhan/jacdac-keystudio-modules
