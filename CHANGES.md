@@ -1,3 +1,17 @@
+## Version 1.0.0
+
+### pelikhan/jacdac-keystudio-modules
+
+* [6383b3b](https://github.com/pelikhan/jacdac-keystudio-modules/commit/6383b3b) updated jacdac-stm32x0 ref
+* [052327b](https://github.com/pelikhan/jacdac-keystudio-modules/commit/052327b) add soil_moisture
+* [28852a3](https://github.com/pelikhan/jacdac-keystudio-modules/commit/28852a3) potentiometer firmware
+* [6436474](https://github.com/pelikhan/jacdac-keystudio-modules/commit/6436474) Initial commit
+
+### microsoft/jacdac-stm32x0
+
+* [0adef8d](https://github.com/microsoft/jacdac-stm32x0/commit/0adef8d) support for including jacdac-c from "/services/"
+* [2651bfa](https://github.com/microsoft/jacdac-stm32x0/commit/2651bfa) Use generated constants
+
 ## Version 0.13.0
 
 ### microsoft/jacdac-msr-modules
