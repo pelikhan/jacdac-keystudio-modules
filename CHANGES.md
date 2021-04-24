@@ -1,3 +1,14 @@
+## Version 1.0.2
+
+### pelikhan/jacdac-keystudio-modules
+
+* [bb0a076](https://github.com/pelikhan/jacdac-keystudio-modules/commit/bb0a076) added light level
+* [9b2946f](https://github.com/pelikhan/jacdac-keystudio-modules/commit/9b2946f) [skip ci] firmware v1.0.1 built
+
+### microsoft/jacdac-c
+
+* [2628d6b](https://github.com/microsoft/jacdac-c/commit/2628d6b) Add support for JD_CONFIG_DEV_SPEC_URL/app_spec_url
+
 ## Version 1.0.1
 
 ### pelikhan/jacdac-keystudio-modules
