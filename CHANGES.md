@@ -1,3 +1,11 @@
+## Version 1.0.4
+
+### pelikhan/jacdac-keystudio-modules
+
+* [1486416](https://github.com/pelikhan/jacdac-keystudio-modules/commit/1486416) Merge branch 'main' of https://github.com/pelikhan/jacdac-keystudio-modules into main
+* [6deebe1](https://github.com/pelikhan/jacdac-keystudio-modules/commit/6deebe1) adding sound level
+* [ddaa6d8](https://github.com/pelikhan/jacdac-keystudio-modules/commit/ddaa6d8) [skip ci] firmware v1.0.3 built
+
 ## Version 1.0.3
 
 ### pelikhan/jacdac-keystudio-modules
