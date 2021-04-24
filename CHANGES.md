@@ -1,3 +1,12 @@
+## Version 1.0.3
+
+### pelikhan/jacdac-keystudio-modules
+
+* [2c725a4](https://github.com/pelikhan/jacdac-keystudio-modules/commit/2c725a4) water level
+* [c2e7d97](https://github.com/pelikhan/jacdac-keystudio-modules/commit/c2e7d97) Merge branch 'main' of https://github.com/pelikhan/jacdac-keystudio-modules into main
+* [955cb9a](https://github.com/pelikhan/jacdac-keystudio-modules/commit/955cb9a) some kind of pressure button
+* [cfe7553](https://github.com/pelikhan/jacdac-keystudio-modules/commit/cfe7553) [skip ci] firmware v1.0.2 built
+
 ## Version 1.0.2
 
 ### pelikhan/jacdac-keystudio-modules
